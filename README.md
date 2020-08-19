@@ -1,7 +1,7 @@
 <h1 align="center">Welcome!! 👋, I'm Agil Dimas</h1>
 <h3 align="center">a boy who love python 👉👌💦💦💦</h3>
 
-![just a gif](https://tenor.com/view/the-dictator-dictator-self-esteem-approve-godlike-gif-7353334)
+![MADERFAKER](https://media1.tenor.com/images/cbf8697e24585aef31474aa46468e785/tenor.gif?itemid=7353334)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=esamjr" alt="esamjr" /> </p>
 

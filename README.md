@@ -1,7 +1,7 @@
 <h1 align="center">Welcome!! 👋, I'm Agil Dimas</h1>
 <h3 align="center">a boy who love python 👉👌💦💦💦</h3>
 
-<p align="left"> <img src="https://media.giphy.com/media/aFTt8wvDtqKCQ/giphy.gif" alt="" /> </p>
+<p align="center"> <img src="https://media.giphy.com/media/aFTt8wvDtqKCQ/giphy.gif" alt="" /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=esamjr" alt="esamjr" /> </p>
 

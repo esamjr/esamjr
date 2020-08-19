@@ -5,11 +5,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=esamjr" alt="esamjr" /> </p>
 
+- 👀 My main language are Bahasa Indonesia
+
 - 🖱 I’m currently learning **Go, C/C++, PHP**
 
 - 🗄 Databases that i use are MySQL, PostgreSQL
 
 - 💬 Ask me about **Django Web Framework**
+
+- 😳 I am from Indonesia 🇮🇩
 
 - 📫 Contact me at **agildimasjr@gmail.com or my discord Mase#3668**
 

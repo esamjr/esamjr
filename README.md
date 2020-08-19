@@ -30,8 +30,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=esamjr&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Catalin's GitHub Stats" />
 </a>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=esamjr&show_icons=true" alt="esamjr" /></p>
-
 <p align="center">
 <a href="https://linkedin.com/in/agil dimas" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="agil dimas" height="30" width="30" /></a>
 </p>

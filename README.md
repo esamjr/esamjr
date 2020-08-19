@@ -1,7 +1,7 @@
 <h1 align="center">Welcome!! 👋, I'm Agil Dimas</h1>
 <h3 align="center">a boy who love python 👉👌💦💦💦</h3>
 
-<div style="width:100%;height:0;padding-bottom:125%;position:relative;"><iframe src="https://giphy.com/embed/aFTt8wvDtqKCQ" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/meme-shiba-inu-aFTt8wvDtqKCQ">via GIPHY</a></p>
+<p align="left"> <img src="https://media.giphy.com/media/aFTt8wvDtqKCQ/giphy.gif" alt="" /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=esamjr" alt="esamjr" /> </p>
 

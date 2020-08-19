@@ -1,7 +1,7 @@
 <h1 align="center">Welcome!! 👋, I'm Agil Dimas</h1>
 <h3 align="center">a boy who love python 👉👌💦💦💦</h3>
 
-<p align="center"> <img src="https://media.giphy.com/media/aFTt8wvDtqKCQ/giphy.gif" alt="" /> </p>
+![just a gif](https://tenor.com/bgIf5.gif)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=esamjr" alt="esamjr" /> </p>
 
@@ -17,7 +17,18 @@
 
 - 📫 Contact me at **agildimasjr@gmail.com or my discord Mase#3668**
 
-<p align="left"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/go/go-original.svg" alt="go" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/></p><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esamjr&layout=compact&hide=html" alt="esamjr" /></p>
+<p align="left"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+<img src="https://devicons.github.io/devicon/devicon.git/icons/go/go-original.svg" alt="go" width="40" height="40"/> 
+<img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+</p>
+
+<a href="https://github.com/esamjr/esamjr">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esamjr&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+<a href="https://github.com/esamjr/esamjr">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=esamjr&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Catalin's GitHub Stats" />
+</a>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=esamjr&show_icons=true" alt="esamjr" /></p>
 

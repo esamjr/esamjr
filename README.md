@@ -1,5 +1,5 @@
-<h1 align="center">Welcome!! 👋, I'm Agil Dimas</h1>
-<h3 align="center">python 4 life 👉👌💦💦💦</h3>
+<h1 align="center">👌👌👌</h1>
+<h3 align="center">👉👌💦💦💦</h3>
 <p align="center"> <img src="https://media1.tenor.com/images/cbf8697e24585aef31474aa46468e785/tenor.gif?itemid=7353334" alt="Aladeen" /> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=esamjr" alt="esamjr" /> </p>
 

@@ -1,23 +1,14 @@
-<h1 align="center">👌👌👌</h1>
+<h1 align="left">Hello my name Agil Dimas, glad you here</h1>
 <h3 align="center">👉👌💦💦💦</h3>
 <p align="center"> <img src="https://media1.tenor.com/images/cbf8697e24585aef31474aa46468e785/tenor.gif?itemid=7353334" alt="Aladeen" /> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=esamjr" alt="esamjr" /> </p>
 
-- 👀 My main language are Bahasa Indonesia
-
-- 🖱 I’m currently learning **Go, C/C++, PHP**
-
-- 🗄 Databases that i use are MySQL, PostgreSQL
-
-- 💬 Ask me about **Django Web Framework**
-
-- 😳 I am from Indonesia 🇮🇩
 
 - 📫 Contact me at **agildimasjr@gmail.com or my discord Mase#3668**
 
 <p align="left"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/go/go-original.svg" alt="go" width="40" height="40"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+<img src="https://icons8.com/icon/44442/golang" alt="go" width="40" height="40"/> 
+<img src="https://icons8.com/icon/13441/python" alt="python" width="40" height="40"/>
 </p>
 
 <a href="https://github.com/esamjr/esamjr">

@@ -1,5 +1,4 @@
 <h3 align="left">Hello my name Agil Dimas, glad you here</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=esamjr" alt="esamjr" /> </p>
 
 
 - 📫 Contact me at **agildimasjr@gmail.com or my discord Mase#3668**

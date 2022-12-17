@@ -2,6 +2,7 @@
 
 
 - 📫 Contact me at **agildimasjr@gmail.com or my discord Mase#3668**
+- 🏢 <a href="https://www.linkedin.com/in/agildimas/">Linkedln page</a>
 
 My tool's
 <p align="left"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
